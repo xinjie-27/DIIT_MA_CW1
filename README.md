@@ -1,2 +1,1 @@
-# DIIT_MA_CW1
-[Mobile Application] SplitEase-A calculator for group expenses
+SplitEase is my individual assignment for Mobile Application subject in Sunway College. It is a bill-splitting app designed to simplify shared expenses. SplitEase allows users to quickly divide costs either split equally or unequally. For split unequally, user need to enter total amount, tax, discount, and number of people. After that, it will show pre-tax total based on information given. User can custom name and enter per-tax amount for every individual. Payable amount for each individual will then display in table form.
